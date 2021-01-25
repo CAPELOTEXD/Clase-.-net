@@ -1,0 +1,13 @@
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\bin\Debug\netcoreapp3.1\nombre_reves.exe
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\bin\Debug\netcoreapp3.1\nombre_reves.deps.json
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\bin\Debug\netcoreapp3.1\nombre_reves.runtimeconfig.json
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\bin\Debug\netcoreapp3.1\nombre_reves.runtimeconfig.dev.json
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\bin\Debug\netcoreapp3.1\nombre_reves.dll
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\bin\Debug\netcoreapp3.1\nombre_reves.pdb
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\obj\Debug\netcoreapp3.1\nombre_reves.csprojAssemblyReference.cache
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\obj\Debug\netcoreapp3.1\nombre_reves.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\obj\Debug\netcoreapp3.1\nombre_reves.AssemblyInfo.cs
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\obj\Debug\netcoreapp3.1\nombre_reves.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\obj\Debug\netcoreapp3.1\nombre_reves.dll
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\obj\Debug\netcoreapp3.1\nombre_reves.pdb
+C:\Users\Javier\source\repos\nombre_reves\nombre_reves\obj\Debug\netcoreapp3.1\nombre_reves.genruntimeconfig.cache
