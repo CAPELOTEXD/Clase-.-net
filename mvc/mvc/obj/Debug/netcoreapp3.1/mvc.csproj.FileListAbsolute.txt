@@ -1,0 +1,13 @@
+C:\Users\Javier\source\repos\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.exe
+C:\Users\Javier\source\repos\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.deps.json
+C:\Users\Javier\source\repos\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.json
+C:\Users\Javier\source\repos\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.runtimeconfig.dev.json
+C:\Users\Javier\source\repos\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.dll
+C:\Users\Javier\source\repos\mvc\mvc\bin\Debug\netcoreapp3.1\mvc.pdb
+C:\Users\Javier\source\repos\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csprojAssemblyReference.cache
+C:\Users\Javier\source\repos\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.AssemblyInfo.cs
+C:\Users\Javier\source\repos\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.dll
+C:\Users\Javier\source\repos\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.pdb
+C:\Users\Javier\source\repos\mvc\mvc\obj\Debug\netcoreapp3.1\mvc.genruntimeconfig.cache
