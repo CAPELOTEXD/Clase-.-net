@@ -1,0 +1,13 @@
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\bin\Debug\netcoreapp3.1\triangulo_pascal.exe
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\bin\Debug\netcoreapp3.1\triangulo_pascal.deps.json
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\bin\Debug\netcoreapp3.1\triangulo_pascal.runtimeconfig.json
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\bin\Debug\netcoreapp3.1\triangulo_pascal.runtimeconfig.dev.json
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\bin\Debug\netcoreapp3.1\triangulo_pascal.dll
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\bin\Debug\netcoreapp3.1\triangulo_pascal.pdb
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\obj\Debug\netcoreapp3.1\triangulo_pascal.AssemblyInfoInputs.cache
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\obj\Debug\netcoreapp3.1\triangulo_pascal.AssemblyInfo.cs
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\obj\Debug\netcoreapp3.1\triangulo_pascal.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\obj\Debug\netcoreapp3.1\triangulo_pascal.dll
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\obj\Debug\netcoreapp3.1\triangulo_pascal.pdb
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\obj\Debug\netcoreapp3.1\triangulo_pascal.genruntimeconfig.cache
+C:\Users\Soporte\source\repos\triangulo_pascal\triangulo_pascal\obj\Debug\netcoreapp3.1\triangulo_pascal.csprojAssemblyReference.cache
