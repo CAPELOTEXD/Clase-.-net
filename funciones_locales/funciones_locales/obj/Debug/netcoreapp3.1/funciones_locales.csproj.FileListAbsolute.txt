@@ -1,0 +1,13 @@
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\bin\Debug\netcoreapp3.1\funciones_locales.exe
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\bin\Debug\netcoreapp3.1\funciones_locales.deps.json
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\bin\Debug\netcoreapp3.1\funciones_locales.runtimeconfig.json
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\bin\Debug\netcoreapp3.1\funciones_locales.runtimeconfig.dev.json
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\bin\Debug\netcoreapp3.1\funciones_locales.dll
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\bin\Debug\netcoreapp3.1\funciones_locales.pdb
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\obj\Debug\netcoreapp3.1\funciones_locales.csprojAssemblyReference.cache
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\obj\Debug\netcoreapp3.1\funciones_locales.AssemblyInfoInputs.cache
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\obj\Debug\netcoreapp3.1\funciones_locales.AssemblyInfo.cs
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\obj\Debug\netcoreapp3.1\funciones_locales.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\obj\Debug\netcoreapp3.1\funciones_locales.dll
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\obj\Debug\netcoreapp3.1\funciones_locales.pdb
+C:\Users\Soporte\source\repos\funciones_locales\funciones_locales\obj\Debug\netcoreapp3.1\funciones_locales.genruntimeconfig.cache
