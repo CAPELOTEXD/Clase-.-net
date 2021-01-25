@@ -1,0 +1,13 @@
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\obj\Debug\netcoreapp3.1\envio datos a travez de array y metodos.csprojAssemblyReference.cache
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\obj\Debug\netcoreapp3.1\envio datos a travez de array y metodos.AssemblyInfoInputs.cache
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\obj\Debug\netcoreapp3.1\envio datos a travez de array y metodos.AssemblyInfo.cs
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\obj\Debug\netcoreapp3.1\envio datos a travez de array y metodos.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\bin\Debug\netcoreapp3.1\envio datos a travez de array y metodos.exe
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\bin\Debug\netcoreapp3.1\envio datos a travez de array y metodos.deps.json
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\bin\Debug\netcoreapp3.1\envio datos a travez de array y metodos.runtimeconfig.json
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\bin\Debug\netcoreapp3.1\envio datos a travez de array y metodos.runtimeconfig.dev.json
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\bin\Debug\netcoreapp3.1\envio datos a travez de array y metodos.dll
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\bin\Debug\netcoreapp3.1\envio datos a travez de array y metodos.pdb
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\obj\Debug\netcoreapp3.1\envio datos a travez de array y metodos.dll
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\obj\Debug\netcoreapp3.1\envio datos a travez de array y metodos.pdb
+C:\Users\Soporte\source\repos\envio datos a travez de array y metodos\envio datos a travez de array y metodos\obj\Debug\netcoreapp3.1\envio datos a travez de array y metodos.genruntimeconfig.cache

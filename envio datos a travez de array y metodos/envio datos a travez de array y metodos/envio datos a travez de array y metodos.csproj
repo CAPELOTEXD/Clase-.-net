@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>envio_datos_a_travez_de_array_y_metodos</RootNamespace>
+  </PropertyGroup>
+
+</Project>
