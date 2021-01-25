@@ -1,0 +1,13 @@
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\bin\Debug\netcoreapp3.1\toma y muestra de datos.exe
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\bin\Debug\netcoreapp3.1\toma y muestra de datos.deps.json
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\bin\Debug\netcoreapp3.1\toma y muestra de datos.runtimeconfig.json
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\bin\Debug\netcoreapp3.1\toma y muestra de datos.runtimeconfig.dev.json
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\bin\Debug\netcoreapp3.1\toma y muestra de datos.dll
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\bin\Debug\netcoreapp3.1\toma y muestra de datos.pdb
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\obj\Debug\netcoreapp3.1\toma y muestra de datos.csprojAssemblyReference.cache
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\obj\Debug\netcoreapp3.1\toma y muestra de datos.AssemblyInfoInputs.cache
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\obj\Debug\netcoreapp3.1\toma y muestra de datos.AssemblyInfo.cs
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\obj\Debug\netcoreapp3.1\toma y muestra de datos.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\obj\Debug\netcoreapp3.1\toma y muestra de datos.dll
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\obj\Debug\netcoreapp3.1\toma y muestra de datos.pdb
+C:\Users\Soporte\source\repos\toma y muestra de datos\toma y muestra de datos\obj\Debug\netcoreapp3.1\toma y muestra de datos.genruntimeconfig.cache

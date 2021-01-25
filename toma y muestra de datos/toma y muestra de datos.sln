@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toma y muestra de datos", "toma y muestra de datos\toma y muestra de datos.csproj", "{BB6BCA93-9B34-4458-BA60-57BAEB72D8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB6BCA93-9B34-4458-BA60-57BAEB72D8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6BCA93-9B34-4458-BA60-57BAEB72D8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6BCA93-9B34-4458-BA60-57BAEB72D8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6BCA93-9B34-4458-BA60-57BAEB72D8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3B53155-E737-4EEE-AB8E-3F2C140FBD2F}
+	EndGlobalSection
+EndGlobal
